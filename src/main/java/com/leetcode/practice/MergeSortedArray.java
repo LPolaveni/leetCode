@@ -1,6 +1,6 @@
 package com.leetcode.practice;
 
-public class mergeSortedArray {
+public class MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
             int i = m - 1;  // Last valid number in nums1
             int j = n - 1;  // Last number in nums2
